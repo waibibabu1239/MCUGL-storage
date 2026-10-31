@@ -1,0 +1,13 @@
+[
+  {
+    "id": "rec-1",
+    "type": "server",
+    "name": "泥地|小游戏",
+    "author": "比巴卜泡泡糖",
+    "description": "给我玩小游戏",
+    "tags": ["休闲"],
+    "version": "26.3",
+    "size": "",
+    "url": "https://example.com/server"
+  }
+]
