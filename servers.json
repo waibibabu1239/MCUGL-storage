@@ -1,0 +1,12 @@
+[
+  {
+    "id": "server-1",
+    "name": "泥地|小游戏",
+    "address": "play.simpfun.cn:14446",
+    "description": "内有多个小游戏的服务器",
+    "version": "26.3",
+    "mode": "休闲",
+    "tags": ["休闲", "娱乐"],
+    "icon": "grass"
+  }
+]
