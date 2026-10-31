@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q-1",
+    "type": "text",
+    "text": "我顶死你们",
+    "author": "歪比巴卜",
+    "source": "群友",
+    "created_at": "2026-10-30T23:00:00+08:00"
+  },
+  {
+    "id": "q-2",
+    "type": "image",
+    "imageUrl": "https://raw.githubusercontent.com/waibibabu1239/MCUGL-storage/main/images/quote-1.png",
+    "author": "北岸",
+    "source": "红石小镇",
+    "created_at": "2026-10-30T23:10:00+08:00"
+  }
+]
