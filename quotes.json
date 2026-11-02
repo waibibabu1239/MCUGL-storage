@@ -9,10 +9,26 @@
   },
   {
     "id": "q-2",
-    "type": "image",
-    "imageUrl": "https://raw.githubusercontent.com/waibibabu1239/MCUGL-storage/main/images/quote-1.png",
-    "author": "北岸",
-    "source": "红石小镇",
+    "type": "text",
+    "text": "如果人会畏惧神,那我决定成为神人了/n这样我就可以自畏了",
+    "author": "Qx_lala",
+    "source": "群友",
+    "created_at": "2026-10-30T23:00:00+08:00"
+  },
+   {
+    "id": "q-3",
+    "type": "text",
+    "text": "有人想被发配缠魂产线了",
+    "author": "计算稽",
+    "source": "群友",
+    "created_at": "2026-10-30T23:00:00+08:00"
+  },
+  {
+    "id": "q-4",
+    "type": "text"，
+    "text": "我怒了！",
+    "author": "The_One_Left",
+    "source": "群友",
     "created_at": "2026-10-30T23:10:00+08:00"
   }
 ]
